@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bailbond-huntingtonbeach.com/sitemap.xml
